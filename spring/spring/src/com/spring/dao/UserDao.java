@@ -13,6 +13,7 @@ public interface UserDao {
 	void com1();
 	void com2();
 	void com3();
+	void com5();
 	
 
 }
