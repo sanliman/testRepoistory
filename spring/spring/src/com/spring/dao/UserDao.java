@@ -9,5 +9,7 @@ public interface UserDao {
 	int saveUser(User user);
 	
 	int delUser(int id);
+	
+	int getCount();
 
 }
