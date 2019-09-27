@@ -10,6 +10,6 @@ public interface UserDao {
 	
 	int delUser(int id);
 	
-	int getCount();
+	
 
 }
