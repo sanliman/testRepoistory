@@ -7,5 +7,7 @@ public interface UserDao {
 	User getUser();
 	
 	int saveUser(User user);
+	
+	int delUser(int id);
 
 }
