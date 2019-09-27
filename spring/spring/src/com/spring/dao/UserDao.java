@@ -10,6 +10,9 @@ public interface UserDao {
 	
 	int delUser(int id);
 	
+	void com1();
+	void com2();
+	void com3();
 	
 
 }
