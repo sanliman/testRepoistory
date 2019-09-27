@@ -5,5 +5,7 @@ import com.spring.pojo.User;
 public interface UserDao {
 	
 	User getUser();
+	
+	int saveUser(User user);
 
 }
